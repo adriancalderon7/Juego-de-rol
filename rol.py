@@ -98,6 +98,7 @@ class Golpear(object):
 		pass
 
 def main():
+	print("Material de apoyo: https://github.com/arleyhr/Juego-de-Rol-sencillo-en-Python---Role-Play-simple-Python")
 	print(" WELCOME!!!\n --------------------------")
 	nombre = input(" Escribe tu nombre: ")
 	j1 = Jugador(nombre)
